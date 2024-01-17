@@ -118,7 +118,7 @@ members = [
 
 [workspace.dependencies.iced]
 git = "https://github.com/iced-rs/iced.git"
-#rev = "b474a2b7a763dcde6a377cb409001a7b5285ee8d"
+rev = "0322e820eb40d36a7425246278b7bcb22b7010aa"
 #version = "0.10.0"
 features = ["advanced", "lazy", "tokio"]
 
